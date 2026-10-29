@@ -7,7 +7,7 @@ int main()
 	int a=0,b=0,c=0,d=0,e=0,f=0,g=0,h=0,i=0,j=0,k=0,l=0,m=0,t[100],S=0;
 	//char m[100];
 	float avg,div;
-	printf("\n\nWELCOMR TO THE EASY TO LEARN SERVICE");
+	printf("\n\nWELCOME TO THE EASY TO LEARN SERVICE");
 	printf("\n=============================\n");
 	printf("\nPlease select the option from given below");
 	printf("\n");
