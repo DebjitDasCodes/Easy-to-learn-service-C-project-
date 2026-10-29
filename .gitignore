@@ -1,0 +1,10 @@
+//executable files
+*.exe
+
+//directories where executable files are present
+build/
+
+**/build/
+
+// node module [.joson files]
+.vscode
